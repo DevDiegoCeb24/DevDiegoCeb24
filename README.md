@@ -10,4 +10,8 @@ Welcome to my space on GitHub, where I share projects focused on:
 🌱 Currently learning: New technologies for advanced automation and data analysis.
 🎯 Objective: Create innovative solutions that make the lives of people and companies easier.
 🚀 Ready to collaborate?
-If you are interested in my projects or think we can create something amazing together, don't hesitate to contact me!
+If you are interested in my projects or think we can create something amazing together, don't hesitate to contact me!:
+
+My Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,github)](https://skillicons.dev)
