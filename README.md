@@ -14,4 +14,4 @@ If you are interested in my projects or think we can create something amazing to
 
 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=python,selenium,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,github,azure,fastapi,vscode,windows)](https://skillicons.dev)
